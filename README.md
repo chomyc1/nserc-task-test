@@ -1,2 +1,1 @@
-# nserc-task-test
-# Here is a random line of text...
+# This file has commits with and without the word "Fix", used for testing the nserc-task code.
